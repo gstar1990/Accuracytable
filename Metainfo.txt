@@ -1,0 +1,21 @@
+Name of QuantLet:  'Accuracytable'
+
+Published in:       
+
+Description:       'Generates table IV in "Is News Informative to Analysts?"'
+
+Keywords:          'Media News, Tone, Sentiment, Information, Analysts'
+
+See also:          'Accuracydata SUE SUEtable'
+
+Author:            'Guo Li'
+
+Submitted:         'Mon, September 5 2016 by Guo Li'
+
+Datafile:          'accuracy1.dta'
+
+Input:  'accuracy1.dta'
+
+Output:  
+
+Example:         
